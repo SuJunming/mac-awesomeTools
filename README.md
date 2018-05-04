@@ -2,7 +2,7 @@
 
 
  这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。我需要它们帮助我快乐、高效的工作，同时也分享给你。
-fork to ruijun
+ fork to ruijun
 ### 说明
 
 ![Open-Source Software][OSS Icon] 表示**开源软件**，点击进入**开源**仓库；  
