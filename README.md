@@ -388,7 +388,6 @@
 ## 远程协助
 
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。★★★★☆ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具 [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 
 ## 第三方应用市场
 
