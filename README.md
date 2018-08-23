@@ -790,7 +790,7 @@
 
 ## 第三方应用市场APP
 
-*[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)，拒绝盗版从我做起，欢迎大家监督。*
+*[这里讨论盗版问题或者提供黑名单？](https://github.com/SuJunming/mac-awesomeTools/issues)，拒绝盗版从我做起，欢迎大家监督。*
 
 ### 正版
 
