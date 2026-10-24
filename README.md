@@ -715,6 +715,7 @@
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。![Freeware][Freeware Icon]
 * [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704) - 覆盖您的节能设置并让您的Mac保持清醒状态。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/amphetamine/id937984704)
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
+* [MacClean](https://thulem.com/) - 原生 macOS 磁盘清理：微信/QQ/企业微信媒体、Xcode/AI 缓存、大文件与可视化 Storage Map；免费扫描，终身解锁 ¥98。
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner) ![Freeware][Freeware Icon]
 * [Coolant](https://coolantformac.com) - 这是能让你知道什么应用程序造成你CPU100%让Mac电脑过热电池耗尽的菜单应用程序。
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
